@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Cao Yixuan"
+locale                   : "zh-CN""
+title                    : "Cao Yixuan / 曹逸轩"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Cao Yixuan / 曹逸轩"
+description              : &description "Ph.D candidate at ICT, CAS"
 url                      : https://yixuancao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yixuancao.github.io"
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cao Yixuan / 曹逸轩"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D candidate at ICT, CAS, interested in NLP and ML"
+  location         : "Haidian, Beijing, China"
   employer         :
   googlescholar    : 
   email            :
