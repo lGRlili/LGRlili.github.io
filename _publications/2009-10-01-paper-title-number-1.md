@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Extracting Formulas from Text"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-05-15-WWW-formula-extraction
+excerpt: 'Extract formulas from text using deep learning method.'
+date: 2018-05-15
+venue: 'WWW 2018 (The Web Conf 2018) in Lyon'
+paperurl: 'http://yixuancao.github.io/files/WWW2018-YixuanCao.pdf'
+citation: 'Yixuan Cao, Hongwei Li, Ping Luo, Jiaquan Yao. Towards Automatic Numerical Cross-Checking: Extracting Formulas from Text, The 27th International Conference on World Wide Web (WWW-18)，April 23–27, 2018，Lyon, France'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper introduce a novel method that can extract formulas from natural language from financial documents.
+This work is part of the system that can conduct automatic Numerical Cross-Checking.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://yixuancao.github.io/files/WWW2018-YixuanCao.pdf)
