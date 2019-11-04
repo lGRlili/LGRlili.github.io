@@ -12,3 +12,5 @@ This paper introduce a novel method that can extract formulas from natural langu
 This work is part of the system that can conduct automatic Numerical Cross-Checking [AutoDoc](http://d.bondowner.cn/#/auth) (A Chinese Bond Prospectus Cross-Checking System).
 
 [Download paper here](http://yixuancao.github.io/files/WWW2018-formula-extraction.pdf)
+
+[Download the slide here](http://yixuancao.github.io/files/WWW-18-report-0420.pptx)
