@@ -17,3 +17,6 @@ An example of nested relation expressed in natural language is as follows:
 We formulate Nested Relation Extraction ss a DAG structure extraction problem, and propose an Iterative Neural Network for this problem. The Iterative Neural Network extracts nested relations layer by layer iteratively.
 
 [Download paper here](http://yixuancao.github.io/files/CIKM2019-nested-relation.pdf)
+
+[Download slide here](http://yixuancao.github.io/files/CIKM-19-nested-RE.pptx)
+
