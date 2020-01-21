@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cao Yixuan / 曹逸轩"
+  name             : "Li Guorong / 李国荣"
   avatar           : "profile.png"
-  bio              : "Ph.D candidate at ICT, CAS, interested in NLP and ML"
-  location         : "Haidian, Beijing, China"
+  bio              : "M.S. candidate at FDU, CHINA, interested in NLP and ML"
+  location         : "PuDong, Shanghai, China"
   employer         :
   googlescholar    : 
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yixuancao"
+  github           : "lGRlili"
   google_plus      :
   keybase          :
   instagram        :
